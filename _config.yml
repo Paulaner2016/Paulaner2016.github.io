@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Paulaner2016.github.io
+title: svoura
+email: p.giorkas@gmail.com
+author: Paulaner2016
+description: My awesome new site
+paginate: 10
+google_analytics: 
